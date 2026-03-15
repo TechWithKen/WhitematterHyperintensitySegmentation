@@ -1,0 +1,10 @@
+Load volumes ... ok.
+Input summary:
+Jobs: 1
+Coregister to reference images: 0
+--------------
+Job 1 of 1
+--------------
+Current directory is /Users/alert/Downloads/WMH_EXPERIMENT_UTRECHT/SPM_UTRECHT/FLAIR/UTR_07
+Skipped coregistration.
+Preprocessing of FLAIR (FLAIR.nii) ...
